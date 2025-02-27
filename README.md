@@ -1,4 +1,4 @@
-# Graphing Code
+# Graphing Commits Monthly
 
 ## Install
 ```
