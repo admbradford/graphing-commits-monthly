@@ -1,0 +1,17 @@
+{
+  "name": "graphing-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chartjs-node-canvas": "^4.1.6",
+    "csv-parser": "^3.2.0",
+    "moment": "^2.30.1"
+  }
+}
